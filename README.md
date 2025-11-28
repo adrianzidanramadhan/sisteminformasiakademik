@@ -1,22 +1,49 @@
-<<<<<<< HEAD
-## Getting Started
+# Sistem Informasi Akademik (Java Console)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project ini merupakan tugas pemrograman berbasis objek yang dibuat menggunakan bahasa Java.  
+Aplikasi berjalan melalui **command line / terminal** dan memiliki fitur untuk mengelola data pengguna.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+# Developer
+| Nama | NIM | Kelas |
+|------|-----|------|
+| Adrian Zidan Ramadhan | 24552011224 | TIFK24A |
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Fitur Utama
+- Input data user (Nama, Email, Alamat, No HP)
+- Menampilkan informasi user di console
+- Menggunakan konsep **OOP Java**:
+  - Class
+  - Object
+  - Encapsulation (getter & setter)
+  - Constructor
+- Struktur project rapi dan mudah dikembangkan lagi
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+# Teknologi
+| Komponen | Detail |
+|---------|--------|
+| Bahasa | Java |
+| IDE | VS Code / IntelliJ |
+| Version Control | Git & GitHub |
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# sisteminformasiakademik
->>>>>>> 52db41d657f2f4073110573bff0d74c26cbeec09
+---
+
+# Struktur Folder
+📁 src
+├── Main.java
+└── User.java
+📄 README.md
+
+
+# Contoh Output
+=== Program Data User ===
+
+Nama    : Adrian Zidan Ramadhan
+Email   : adrian@example.com
+Alamat  : Jakarta
+No. HP  : 081234567890
