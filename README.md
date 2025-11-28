@@ -30,20 +30,3 @@ Aplikasi berjalan melalui **command line / terminal** dan memiliki fitur untuk m
 | Bahasa | Java |
 | IDE | VS Code / IntelliJ |
 | Version Control | Git & GitHub |
-
----
-
-# Struktur Folder
-📁 src
-├── Main.java
-└── User.java
-📄 README.md
-
-
-# Contoh Output
-=== Program Data User ===
-
-Nama    : Adrian Zidan Ramadhan
-Email   : adrian@example.com
-Alamat  : Jakarta
-No. HP  : 081234567890
